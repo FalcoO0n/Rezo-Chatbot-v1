@@ -1,0 +1,21 @@
+body {
+	background-size: 100% auto;
+	/* background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%); */
+    background-color: #e7eaf6;
+}
+
+#content {
+    background: linear-gradient(90deg, rgb(252, 115, 156) 0%, rgb(139, 102, 241) 100%);
+	display: flex;
+	text-shadow: 5px 5px 10px rgba(16, 129, 245, 0.4);
+	color: #854feb;
+	text-transform: uppercase;
+	justify-content: center;
+}
+
+#para {
+	display: flex;
+	justify-content: center;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
