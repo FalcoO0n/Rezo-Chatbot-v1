@@ -1,4 +1,4 @@
 # Rezo-Chatbot-v1
-testing version of RezoBot
+Template For Future Project
 
 developing the frontend for the rezobot from scratch.
